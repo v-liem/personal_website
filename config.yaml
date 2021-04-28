@@ -1,37 +1,43 @@
-theme: "starter-academic"
 # Configuration of Hugo
 # Guide: https://wowchemy.com/docs/getting-started/
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: vgbliem # Website name
-baseurl: '' # Website URL
-copyright: '© Victor Liem {year} · Constructed with [blogdown](https://bookdown.org/yihui/blogdown/) and the [Acacemic theme](https://wowchemy.com/) for [Hugo](https://gohugo.io/)' # Footer text, e.g. '© {year} Me'
 
-############################
-## LANGUAGE
-############################
-
-defaultContentLanguage: en
-hasCJKLanguage: false
-defaultContentLanguageInSubdir: false
-removePathAccents: true
+# Title of my site
+title: vgbliem
+# Website URL
+baseurl: ""
+# Copyright text in footer
+copyright: '© Victor Liem {year} · Powered by [blogdown](https://bookdown.org/yihui/blogdown/) and the [Acacemic theme](https://wowchemy.com/) for [Hugo](https://gohugo.io/)' 
 
 ############################
 ## MODULES
 ############################
-
 module:
   imports:
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy
 
-############################
-## ADVANCED
-############################
+##==================##
+## Advanced setting ##  
+##==================##
 
+# Name of Academic theme folder in `themes/`.
+theme: "starter-academic"
+
+# Get last modified date for content from Git?
 enableGitInfo: false
+
+# Default language if multilanguage
+defaultContentLanguage: "en"
+hasCJKLanguage: false # true for japanese/korean/chinese
+defaultContentLanguageInSubdir: false
+removePathAccents: true
+
+# Summary length in words
 summaryLength: 30
+# No of items per page
 paginate: 10
 enableEmoji: true
 enableRobotsTXT: true
@@ -51,17 +57,18 @@ markup:
   defaultMarkdownHandler: goldmark
   goldmark:
     renderer:
-      unsafe: true
+      unsafe: true # Enable user to embed HTML snippets in Markdown content.
   highlight:
-    codeFences: false
+    codeFences: false # Disable Hugo's code highlighter as it conflicts with Academic's highligher.
   tableOfContents:
     startLevel: 2
     endLevel: 3
 imaging:
   resampleFilter: lanczos
   quality: 75
-  anchor: smart
+  anchor: smart # Anchor for cropping. Options include Smart and Center.
 timeout: 600000
+# Taxonomies
 taxonomies:
   tag: tags
   category: categories

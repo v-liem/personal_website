@@ -74,23 +74,62 @@
     <loc>/tag/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/f.-grune/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/f.-van-lier/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/hypotension/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/j.w.-potters/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/k.h.j.m.-mol/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/myocardial-injury/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/poh/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/r.j.-stolker/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/s.e.-hoek/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/v.g.b.-liem/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/qol/</loc>
+    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/quality-of-life/</loc>
+    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/troponin/</loc>
+    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication-type/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <loc>/tag/mace/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <loc>/publication/mace/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
@@ -100,6 +139,39 @@
   </url><url>
     <loc>/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/anesthesia/</loc>
+    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/big-data/</loc>
+    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/j.c.-de-graaff/</loc>
+    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/big-data/</loc>
+    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/ckd/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/f.h.i.m.-wesdorp/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/ckd/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/troponin-t/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/map/</loc>
+    <lastmod>2017-11-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/h.-boersma/</loc>
+    <lastmod>2017-11-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/map/</loc>
+    <lastmod>2017-11-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
@@ -116,23 +188,8 @@
     <loc>/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/robert-ford/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/admin/</loc>
   </url><url>
-    <loc>/author/victor-liem/</loc>
+    <loc>/author/victor-g.b.-liem/</loc>
   </url>
 </urlset>

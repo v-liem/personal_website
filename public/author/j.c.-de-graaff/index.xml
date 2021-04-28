@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J.C. de Graaff | vgbliem</title>
+    <link>/author/j.c.-de-graaff/</link>
+      <atom:link href="/author/j.c.-de-graaff/index.xml" rel="self" type="application/rss+xml" />
+    <description>J.C. de Graaff</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Victor Liem 2021 · Powered by [blogdown](https://bookdown.org/yihui/blogdown/) and the [Acacemic theme](https://wowchemy.com/) for [Hugo](https://gohugo.io/)</copyright><lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>J.C. de Graaff</title>
+      <link>/author/j.c.-de-graaff/</link>
+    </image>
+    
+    <item>
+      <title>What we can learn from Big Data about factors influencing perioperative outcome</title>
+      <link>/publication/big-data/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/big-data/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

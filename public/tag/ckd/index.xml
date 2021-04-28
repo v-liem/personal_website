@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CKD | vgbliem</title>
+    <link>/tag/ckd/</link>
+      <atom:link href="/tag/ckd/index.xml" rel="self" type="application/rss+xml" />
+    <description>CKD</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Victor Liem 2021 · Powered by [blogdown](https://bookdown.org/yihui/blogdown/) and the [Acacemic theme](https://wowchemy.com/) for [Hugo](https://gohugo.io/)</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>CKD</title>
+      <link>/tag/ckd/</link>
+    </image>
+    
+    <item>
+      <title>Prognostic value of postoperative high-sensitivity troponin T in patients with different stages of kidney disease undergoing noncardiac surgery</title>
+      <link>/publication/ckd/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/ckd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

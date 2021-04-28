@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F. van Lier | vgbliem</title>
+    <link>/author/f.-van-lier/</link>
+      <atom:link href="/author/f.-van-lier/index.xml" rel="self" type="application/rss+xml" />
+    <description>F. van Lier</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Victor Liem 2021 · Powered by [blogdown](https://bookdown.org/yihui/blogdown/) and the [Acacemic theme](https://wowchemy.com/) for [Hugo](https://gohugo.io/)</copyright><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>F. van Lier</title>
+      <link>/author/f.-van-lier/</link>
+    </image>
+    
+    <item>
+      <title>Postoperative Hypotension after Noncardiac Surgery and the Association with Myocardial Injury</title>
+      <link>/publication/poh/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/poh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Immediate postoperative high-sensitivity troponin T concentrations and long-term patient-reported health-related quality of life: A prospective cohort study</title>
+      <link>/publication/qol/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/qol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Postoperative troponin release is associated with major adverse cardiovascular events in the first year after noncardiac surgery</title>
+      <link>/publication/mace/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/mace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What we can learn from Big Data about factors influencing perioperative outcome</title>
+      <link>/publication/big-data/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/big-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prognostic value of postoperative high-sensitivity troponin T in patients with different stages of kidney disease undergoing noncardiac surgery</title>
+      <link>/publication/ckd/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/ckd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association between postoperative mean arterial blood pressure and myocardial injury after noncardiac surgery</title>
+      <link>/publication/map/</link>
+      <pubDate>Wed, 22 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/map/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
