@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Victor Liem | Academic</title>
+    <title>Victor Liem | VGB Liem</title>
     <link>/author/victor-liem/</link>
       <atom:link href="/author/victor-liem/index.xml" rel="self" type="application/rss+xml" />
     <description>Victor Liem</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Victor Liem 2021. Constructed with [blogdown](https://bookdown.org/yihui/blogdown/)</copyright>
     <image>
-      <url>/author/victor-liem/avatar_hua1efe0907b1a4dbc1059452d51458467_266974_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>/author/victor-liem/avatar_hu73a90a626b4666fda462d7f48b47c965_250372_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Victor Liem</title>
       <link>/author/victor-liem/</link>
     </image>

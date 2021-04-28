@@ -4,9 +4,9 @@ theme: "starter-academic"
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: VGB Liem # Website name
+title: vgbliem # Website name
 baseurl: '' # Website URL
-copyright: '© Victor Liem 2021. Constructed with [blogdown](https://bookdown.org/yihui/blogdown/)' # Footer text, e.g. '© {year} Me'
+copyright: '© Victor Liem {year} · Constructed with [blogdown](https://bookdown.org/yihui/blogdown/) and the [Acacemic theme](https://wowchemy.com/) for [Hugo](https://gohugo.io/)' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

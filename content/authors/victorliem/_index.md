@@ -3,7 +3,7 @@
 name: 
 
 # Username
-title: Victor Liem
+title: Victor G.B. Liem
 
 authors:
 - victorliem
@@ -11,17 +11,21 @@ superuser: true
 
 role: Ph.D. Candidate
 
-bio: My research interests include perioperative monitoring, hemodynamics and data science.
+organizations:
+- name: Erasmus University Medical Center
+  url: 
+
+bio: 
 
 education:
   courses:
-  - course: PhD Candidate
+  - course: Ph.D. in Perioperative Care
     institution: Erasmus University Medical Center
-    year: 2022 (expected)
-  - course: MSc in Medicine
+    year: excpected in 2022
+  - course: M.Sc. in Medicine
     institution: Erasmus University Medical Center
     year: 2017
-  - course: BSc in Psychology
+  - course: B.Sc. in Psychology
     institution: Leiden University
     year: 2009
   - course: Propedeuse in China Studies
@@ -37,19 +41,17 @@ interests:
 - Anesthesia Monitoring
 - Data Science
 
-organizations:
-- name: Erasmus University Medical Center
-  url: https://www.erasmusmc.nl/en/research
+
   
 
 
 social:
+- display:
+    header: true
 - icon: envelope
   icon_pack: fas
   link: mailto:v.liem@erasmusmc.nl
-- display:
-    header: true
-- icon: linkedin
+- icon: linkedin-in
   icon_pack: fab
   link: https://www.linkedin.com/
 - icon: google-scholar
@@ -58,14 +60,13 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/v-liem
-- icon: youtube
+- icon: orcid
   icon_pack: fab
-  label: See my travel montages
-  link: https://www.youtube.com/user/VGBLiem/featured
+  link: https://orcid.org/0000-0002-9205-1651
 
 ---
 
 
-Victor Liem is a Ph.D. Candidate at the [department of Anesthesiology](https://www.erasmusmc.nl/en/research/departments/anesthesiology) at the [Erasmus University Medical Center, Rotterdam](https://www.erasmusmc.nl/en/research). His research interests include perioperative monitoring, hemodynamics and data science in clinical research. He is currently writing his dissertation on _anesthesia hemodynamic data and myocardial injury_, while working as a M.D. at _Sanquin Dutch Blood Supply_.
+Victor Liem is a Ph.D. Candidate at the [department of Anesthesiology](https://www.erasmusmc.nl/en/research/departments/anesthesiology) at the [Erasmus University Medical Center, Rotterdam](https://www.erasmusmc.nl/en/research). His research interests include perioperative monitoring, hemodynamics and data science in clinical research. He is currently writing his dissertation on _anesthesia hemodynamic data and myocardial injury_, while working at _the Sanquin Dutch Blood Supply_ as a M.D.
 
 
