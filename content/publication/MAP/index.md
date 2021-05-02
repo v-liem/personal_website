@@ -39,7 +39,7 @@ image:
   
 projects: []
 
-publication: "_British Journal of Anaesthesia_ (2018) 120(1) 77-83."
+publication: "_British Journal of Anaesthesia 2018 120(1) 77-83._"
 
 publication_short: ""
 
@@ -50,13 +50,15 @@ publishDate: "2017-11-22T00:00:00Z"
 
 slides: 
 
-summary: Lower postoperative blood pressure is associated with an increased incidence of postoperative cardiac hsTnT elevation, irrespective of pre- and intraoperative variables.
+summary: "_British Journal of Anaesthesia (2018) 120(1) 77-83_"
 
 tags:
 - MAP
 - Troponin T
 
 title: Association between postoperative mean arterial blood pressure and myocardial injury after noncardiac surgery
+
+subtitle: "_British Journal of Anaesthesia (2018) 120(1) 77-83_"
 
 url_code: ""
 

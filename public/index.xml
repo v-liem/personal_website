@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>vgbliem</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Victor Liem 2021 · Powered by [blogdown](https://bookdown.org/yihui/blogdown/) and the [Acacemic theme](https://wowchemy.com/) for [Hugo](https://gohugo.io/)</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Victor Liem 2021 · Powered by [blogdown](https://bookdown.org/yihui/blogdown/) and the [Acacemic theme](https://wowchemy.com/) for [Hugo](https://gohugo.io/)</copyright><lastBuildDate>Fri, 30 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>vgbliem</title>
@@ -108,22 +108,72 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
-      <title>Example Talk</title>
-      <link>/talk/example-talk/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>/talk/example-talk/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+      <title>Beta Blockade</title>
+      <link>/project/bb/</link>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/project/bb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hypotension and Tachycardia</title>
+      <link>/project/sioht/</link>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/project/sioht/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Background:&lt;/strong&gt; Perioperative myocardial injury is a major contributor of postoperative mortality and intraoperative tachycardia was assumed related due to promoting increased oxygen demand and impaired coronary perfusion. However, conflicting evidence has put the association between intraoperative tachycardia and myocardial injury under debate and propose tachycardia as a mere surrogate marker of hypotension. The aim of this study was to examine both tachycardia and hypotension, as single events and when simultaneous occurring during noncardiac surgery, and the association with postoperative death, kidney and myocardial injury.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods:&lt;/strong&gt; This study, derived from a prospective troponin surveillance cohort from 2012 to 2017, followed patients aged ≥60 years undergoing moderate to major noncardiac surgery. An absolute MAP threshold below 65 mmHg was used to define hypotension (IOH) and an absolute heart rate threshold above 100 bpm to define tachycardia (IOT). A simultaneous occurrence of intraoperative hypotension and tachycardia was marked as SIOHT (Fig 1) and cumulative duration was consequently calculated. The primary study endpoint was myocardial injury (defined as a peak hs-Troponin T ≥ 50ng/L) during the first 3 postoperative days. Secondary endpoints were acute kidney injury (AKI) and mortality. Multivariable logistic regressions were used to assess the association between SIOHT and study endpoints.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results:&lt;/strong&gt; The total cohort comprised of 4547 patients. 2233 (49%) experienced at least a single episode of IOH without any IOT, 273 (6%) a single episode IOT without any IOH, 939 (21%) experienced both IOH and IOT episodes separate during surgery, 366 (8%) an episode of SIOHT and 736 (16%) no event at all. Patients with a SIOHT had a higher incidence of myocardial injury (19%), AKI (27%) and 30-day mortality (5%) compared to patients with no episodes of IOH and/or IOT (12% myocardial injury; 17% AKI; 2% 30-day mortality). After adjusting for potential confounders, a 5 min (aOR, 1.83; 95% CI, 1.22 – 2.69; P= 0.003), 6 – 10 min (aOR, 2.69; 95% CI, 1.22 – 5.51; P = 0.010), 11 – 30 min (aOR, 3.28; 95% CI, 1.56 – 6.60; P = 0.001) and &amp;gt;30 min (aOR, 3.66; 95% CI, 1.62 – 7.94; P = 0.001) cumulative duration of SIOHT was associated with an increased risk of myocardial injury (Fig 2). Moreover, a decrease in short- and long term survival was observed in patients who experienced a SIOHT episode (Fig 3; log-rank test, P &amp;lt; 0.001).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusion:&lt;/strong&gt; Patients who experienced a simultaneous episode of hypotension and tachycardia during noncardiac surgery had a higher incidence of AKI, myocardial injury and mortality. Furthermore, longer cumulative durations were independently associated with myocardial injury. Whether this cardiovascular phenomenon is an expression of underlying shock or a modifiable risk factor needs to be determined.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Intraoperative Vasopressors</title>
+      <link>/project/fnyl/</link>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/project/fnyl/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Minimal Alveolar Mac</title>
+      <link>/project/mac/</link>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/project/mac/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Background:&lt;/strong&gt; Volatile anesthetics have cardioprotective properties and have shown to reduce postoperative myocardial injury in cardiac surgery. In noncardiac surgery, studies have failed to replicate the same beneficial effects compared to total intravenous anesthesia. However, it is unclear whether the effects on the myocardium are dose dependent. The aim of this study was to assess the effects of sevoflurane concentration on myocardial injury in noncardiac surgery.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods:&lt;/strong&gt; This observational study selected from a troponin surveillance cohort comprised of 2049 patients aged ≥60 years undergoing moderate and major noncardiac surgery restricted to a sevoflurane-based anesthesia regimen. End-tidal sevoflurane concentrations were recorded at 1 minute intervals and age-related minimal alveolar concentrations (MAC) were determined. The primary study endpoint was myocardial injury, defined as a peak high-sensitive troponin T ≥50 ng/L, during the first 3 postoperative days. Logistic regression models were used to assess the association between MAC and myocardial injury.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results:&lt;/strong&gt; Patients were divided into quartiles based on their mean intraoperative MAC; lowest (&amp;lt;0.94), low (0.94 – 1.04), high (1.04 – 1.15), highest (&amp;gt;1.15). Overall, 209 patients (10%) had postoperative myocardial injury and the incidence stepwise decreased with higher MAC concentrations (Table 1). Compared to the lowest mean MAC quartile, a high (adjusted odds ratio [aOR], 0.50; 95% confidence interval [CI], 0.31 – 0.81; P = 0.006) and the highest mean MAC (aOR, 0.48; 95% CI, 0.29 – 0.78; P = 0.003) were associated with a reduced risk of postoperative myocardial injury, after adjusting for potential confounders.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusion:&lt;/strong&gt; Higher intraoperative sevoflurane concentrations during moderate and major noncardiac surgery were associated with a reduction of postoperative myocardial injury, irrespective of intraoperative heart rate or blood pressure.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Postoperative Heart Rate</title>
+      <link>/project/pohr/</link>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/project/pohr/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Background:&lt;/strong&gt; Pre- and intraoperative tachycardia in noncardiac surgery have demonstrated to be associated with postoperative myocardial injury and death. These findings are well accepted because heart rate is considered a crucial component in the myocardial oxygen supply and demand balance. However, much less is known about tachycardia in the postoperative period. This current study aims to examine postoperative tachycardia, reviewing multiple thresholds, and it’s association with myocardial injury in noncardiac surgery.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods:&lt;/strong&gt; This current study population was derived from a prospective troponin surveillance cohort, from 2012 to 2017 at the Erasmus Medical Center in the Netherlands, and was retrospectively analyzed. Patients were aged ≥ 60 years, underwent moderate to major noncardiac surgery and had frequent postoperative hemodynamic monitoring on a postoperative high-dependency ward for up to 24 hours. Intra- and postoperative hemodynamic parameters were recorded and extracted. The primary study endpoint was myocardial injury (defined as a peak high-sensitive troponin T ≥ 50 ng/L) within the first postoperative 3 days. Multivariable logistic regression models were used to investigate the association between postoperative heart rate and myocardial injury.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results:&lt;/strong&gt; The study consisted of 1691 patients, of which 223 (13%) had postoperative myocardial injury. Postoperative tachycardia was common; with 14% of the patients experiencing a heart rate ≥100 beats per minute (bpm) for at least one hour. A higher mean of 10 bpm postoperative heart rate was associated with an increased risk of myocardial injury (adjusted odds ratio [aOR], 1.32; 95% confidence interval [CI], 1.17 – 1.50; P &amp;lt; 0.001). A 10% relative higher mean postoperative heart rate compared to patients’ baseline heart rate was also associated with an increased risk (aOR, 1.11; 95% CI, 1.00 – 1.24; P = 0.047). Furthermore, a cumulative duration of more than 310 minutes ≥ 90 bpm (aOR, 2.01; 95% CI, 1.00 – 4.00; P = 0.015) and approximately a cumulative duration of more than 2 hours  ≥ 100 bpm (aOR, 2.44; 95% CI, 1.21 – 4.80; P = 0.002) were independently associated with myocardial injury (Table 1).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusion:&lt;/strong&gt; On a high-dependency ward, postoperative tachycardia was independently associated with an increased risk of myocardial injury. Further research is warranted if postoperative tachycardia is refractory, a mere reflection of an underlying disease and/or whether it is a modifiable risk factor for myocardial injury.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recovery Hypotension</title>
+      <link>/project/powh/</link>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/project/powh/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
 </description>
     </item>
     
@@ -252,6 +302,30 @@ Figure 1: A fancy pie chart.
     </item>
     
     <item>
+      <title>Association between minimal alveolar concentrations of sevoflurane and myocardial injury on noncardiac surgery</title>
+      <link>/talk/association-between-minimal-alveolar-concentrations-of-sevoflurane-and-myocardial-injury-on-noncardiac-surgery/</link>
+      <pubDate>Mon, 21 Oct 2019 09:00:00 +0000</pubDate>
+      <guid>/talk/association-between-minimal-alveolar-concentrations-of-sevoflurane-and-myocardial-injury-on-noncardiac-surgery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The association between postoperative hypotension during the first 24 hours after noncardiac surgery and myocardial injury</title>
+      <link>/talk/the-association-between-postoperative-hypotension-during-the-first-24-hours-after-noncardiac-surgery-and-myocardial-injury/</link>
+      <pubDate>Sun, 20 Oct 2019 13:00:00 +0000</pubDate>
+      <guid>/talk/the-association-between-postoperative-hypotension-during-the-first-24-hours-after-noncardiac-surgery-and-myocardial-injury/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big Data Analysis - Workshop</title>
+      <link>/talk/big-data-analysis-workshop/</link>
+      <pubDate>Fri, 20 Sep 2019 09:00:00 +0000</pubDate>
+      <guid>/talk/big-data-analysis-workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Writing technical content in Academic</title>
       <link>/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
@@ -279,7 +353,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-963812574&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-719842536&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -289,7 +363,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-963812574&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-719842536&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -697,10 +771,34 @@ Three
     </item>
     
     <item>
+      <title>The association between postoperative hypotension during the first 24 hours after noncardiac surgery and myocardial injury</title>
+      <link>/talk/the-association-between-postoperative-hypotension-during-the-first-24-hours-after-noncardiac-surgery-and-myocardial-injury/</link>
+      <pubDate>Sat, 26 Jan 2019 09:00:00 +0000</pubDate>
+      <guid>/talk/the-association-between-postoperative-hypotension-during-the-first-24-hours-after-noncardiac-surgery-and-myocardial-injury/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>What we can learn from Big Data about factors influencing perioperative outcome</title>
       <link>/publication/big-data/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       <guid>/publication/big-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relevance of postoperative blood pressures?</title>
+      <link>/talk/relevance-of-postoperative-blood-pressures/</link>
+      <pubDate>Tue, 02 Oct 2018 09:00:00 +0000</pubDate>
+      <guid>/talk/relevance-of-postoperative-blood-pressures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The association between postoperative hypotension during the first 24 hours after noncardiac surgery and myocardial injury</title>
+      <link>/talk/the-association-between-postoperative-hypotension-during-the-first-24-hours-after-noncardiac-surgery-and-myocardial-injury/</link>
+      <pubDate>Sat, 10 Feb 2018 09:00:00 +0000</pubDate>
+      <guid>/talk/the-association-between-postoperative-hypotension-during-the-first-24-hours-after-noncardiac-surgery-and-myocardial-injury/</guid>
       <description></description>
     </item>
     
@@ -721,24 +819,19 @@ Three
     </item>
     
     <item>
-      <title>External Project</title>
-      <link>/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/external-project/</guid>
+      <title>The prognostic value of postoperative high-sensitive troponin T in patients with different stages of kidney disease undergoing noncardiac surgery</title>
+      <link>/talk/the-prognostic-value-of-postoperative-high-sensitive-troponin-t-in-patients-with-different-stages-of-kidney-disease-undergoing-noncardiac-surgery/</link>
+      <pubDate>Fri, 30 Sep 2016 16:05:00 +0000</pubDate>
+      <guid>/talk/the-prognostic-value-of-postoperative-high-sensitive-troponin-t-in-patients-with-different-stages-of-kidney-disease-undergoing-noncardiac-surgery/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Internal Project</title>
-      <link>/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/internal-project/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
+      <title>The prognostic value of postoperative high-sensitive troponin T in patients with different stages of kidney disease undergoing noncardiac surgery</title>
+      <link>/talk/the-prognostic-value-of-postoperative-high-sensitive-troponin-t-in-patients-with-different-stages-of-kidney-disease-undergoing-noncardiac-surgery/</link>
+      <pubDate>Sat, 31 Jan 2015 11:30:00 +0000</pubDate>
+      <guid>/talk/the-prognostic-value-of-postoperative-high-sensitive-troponin-t-in-patients-with-different-stages-of-kidney-disease-undergoing-noncardiac-surgery/</guid>
+      <description></description>
     </item>
     
     <item>

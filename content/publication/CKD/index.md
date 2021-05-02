@@ -48,13 +48,15 @@ publishDate: "2018-01-01T00:00:00Z"
 
 slides: 
 
-summary: Elevated postoperative hsTnT is associated with a dose-dependent increase in 30-day and long-term mortality risk in each stage of CKD with an estimated glomerular filtration rate ≥30 ml min−1 1.73 m−2.
+summary: "_British Journal of Anaesthesia 2018 120(1) 84-93_"
 
 tags:
 - CKD
 - Troponin T
 
 title: Prognostic value of postoperative high-sensitivity troponin T in patients with different stages of kidney disease undergoing noncardiac surgery
+
+subtitle: '_British Journal of Anaesthesia 2018 120(1) 84-93_'
 
 url_code: ""
 

@@ -50,7 +50,7 @@ image:
   
 projects: []
 
-publication: "_European Journal of Anaesthesiology_ (2020) 37(8) 680-687."
+publication: "_European Journal of Anaesthesiology 2020 37(8) 680-687_"
 
 publication_short: ""
 
@@ -61,7 +61,7 @@ publishDate: "2020-08-01T00:00:00Z"
 
 slides: 
 
-summary: Higher levels of postoperative troponin measured immediately after surgery were independently associated with lower self-reported HRQoL total score at 1-year follow-up.
+summary: "_European Journal of Anaesthesiology 2020 37(8) 680-687_"
 
 tags:
 - Quality of Life

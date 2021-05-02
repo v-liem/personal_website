@@ -37,7 +37,7 @@ image:
   
 projects: []
 
-publication: "_Anesthesiology September 2020_, Vol. 133, 510–522."
+publication: "_Anesthesiology September 2020, Vol. 133, 510–522_"
 
 publication_short: ""
 
@@ -48,7 +48,7 @@ publishDate: "2017-01-01T00:00:00Z"
 
 slides: 
 
-summary: In this study, postoperative hypotension was common and was independently associated with myocardial injury
+summary: "_Anesthesiology September 2020, Vol. 133, 510–522_"
 
 tags:
 - Hypotension

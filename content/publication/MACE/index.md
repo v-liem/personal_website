@@ -46,13 +46,14 @@ publishDate: "2019-04-01T00:00:00Z"
 
 slides: 
 
-summary: Our dataset demonstrates a graded relationship between postoperative troponin release and occurrence of MACE in the first year after intermediate-to-high risk noncardiac surgery.
+summary: "_International Journal of Cardiology 2019 280 8-13_"
 
 tags:
 - MACE
 - Troponin
 
 title: Postoperative troponin release is associated with major adverse cardiovascular events in the first year after noncardiac surgery
+subtitle: '_International Journal of Cardiology 2019 280 8-13_'
 
 url_code: ""
 

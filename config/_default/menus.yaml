@@ -7,21 +7,21 @@ main:
   - name: About 
     url: '#about'
     weight: 1
-  - name: Publications
-    url: '#publication'
+  - name: CV
+    url: "files/cv.pdf"
     weight: 2
+  - name: Publications
+    url: '#publications'
+    weight: 3
   - name: Projects
     url: '#projects'
-    weight: 3
+    weight: 4
   - name: Presentations
     url: '#presentations'
-    weight: 4
-  - name: Resume
-    url: '#resume'
     weight: 5
-  - name: Skills and Interest
-    url: '#interests'
+  - name: Skills
+    url: '#skills'
     weight: 6
-  # - name: Contact
-  #   url: '#contact'
-  #   weight: 70
+  - name: Contact
+    url: '#contact'
+    weight: 7

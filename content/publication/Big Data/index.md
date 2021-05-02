@@ -42,13 +42,15 @@ publishDate: "2018-12-01T00:00:00Z"
 
 slides: 
 
-summary: Although Big Data has its flaws in security, lack of expertise and methodological concerns, the future potential of analytics combined with genomics, machine learning and real-time decision support looks promising.
+summary: "_Current Opinion in Anaesthesiology: December 2018 - Volume 31 - Issue 6 - p 723-731_"
 
 tags:
 - Big Data
 - Anesthesia
 
 title: What we can learn from Big Data about factors influencing perioperative outcome
+
+
 
 url_code: ""
 
