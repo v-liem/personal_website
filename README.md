@@ -1,2 +1,2 @@
-# personal_website
-Personal Website for Academia
+# Personal Website
+Personal website for academia
