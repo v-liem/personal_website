@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>H. Boersma | vgbliem</title>
-    <link>/author/h.-boersma/</link>
-      <atom:link href="/author/h.-boersma/index.xml" rel="self" type="application/rss+xml" />
+    <link>victorliem.netlify.app/author/h.-boersma/</link>
+      <atom:link href="victorliem.netlify.app/author/h.-boersma/index.xml" rel="self" type="application/rss+xml" />
     <description>H. Boersma</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Victor Liem 2021 · Powered by [blogdown](https://bookdown.org/yihui/blogdown/) and the [Acacemic theme](https://wowchemy.com/) for [Hugo](https://gohugo.io/)</copyright><lastBuildDate>Wed, 22 Nov 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>/victorliem.netlify.app/media/icon_hueab541dda5c83ac57704dcca904f04bb_56108_512x512_fill_lanczos_center_2.png</url>
       <title>H. Boersma</title>
-      <link>/author/h.-boersma/</link>
+      <link>victorliem.netlify.app/author/h.-boersma/</link>
     </image>
     
     <item>
       <title>Association between postoperative mean arterial blood pressure and myocardial injury after noncardiac surgery</title>
-      <link>/publication/map/</link>
+      <link>victorliem.netlify.app/publication/map/</link>
       <pubDate>Wed, 22 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/map/</guid>
+      <guid>victorliem.netlify.app/publication/map/</guid>
       <description></description>
     </item>
     

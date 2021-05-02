@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Victor G.B. Liem | vgbliem</title>
-    <link>/author/victor-g.b.-liem/</link>
-      <atom:link href="/author/victor-g.b.-liem/index.xml" rel="self" type="application/rss+xml" />
+    <link>victorliem.netlify.app/author/victor-g.b.-liem/</link>
+      <atom:link href="victorliem.netlify.app/author/victor-g.b.-liem/index.xml" rel="self" type="application/rss+xml" />
     <description>Victor G.B. Liem</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Victor Liem 2021 · Powered by [blogdown](https://bookdown.org/yihui/blogdown/) and the [Acacemic theme](https://wowchemy.com/) for [Hugo](https://gohugo.io/)</copyright>
     <image>
-      <url>/author/victor-g.b.-liem/avatar_hu73a90a626b4666fda462d7f48b47c965_250372_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>/victorliem.netlify.app/author/victor-g.b.-liem/avatar_hu73a90a626b4666fda462d7f48b47c965_250372_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Victor G.B. Liem</title>
-      <link>/author/victor-g.b.-liem/</link>
+      <link>victorliem.netlify.app/author/victor-g.b.-liem/</link>
     </image>
     
   </channel>

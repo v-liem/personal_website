@@ -2,77 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Presentations | vgbliem</title>
-    <link>/event/</link>
-      <atom:link href="/event/index.xml" rel="self" type="application/rss+xml" />
+    <link>victorliem.netlify.app/event/</link>
+      <atom:link href="victorliem.netlify.app/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Presentations</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Victor Liem 2021 · Powered by [blogdown](https://bookdown.org/yihui/blogdown/) and the [Acacemic theme](https://wowchemy.com/) for [Hugo](https://gohugo.io/)</copyright><lastBuildDate>Mon, 21 Oct 2019 09:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>/victorliem.netlify.app/media/icon_hueab541dda5c83ac57704dcca904f04bb_56108_512x512_fill_lanczos_center_2.png</url>
       <title>Presentations</title>
-      <link>/event/</link>
+      <link>victorliem.netlify.app/event/</link>
     </image>
     
     <item>
       <title>Association between minimal alveolar concentrations of sevoflurane and myocardial injury on noncardiac surgery</title>
-      <link>/talk/association-between-minimal-alveolar-concentrations-of-sevoflurane-and-myocardial-injury-on-noncardiac-surgery/</link>
+      <link>victorliem.netlify.app/talk/association-between-minimal-alveolar-concentrations-of-sevoflurane-and-myocardial-injury-on-noncardiac-surgery/</link>
       <pubDate>Mon, 21 Oct 2019 09:00:00 +0000</pubDate>
-      <guid>/talk/association-between-minimal-alveolar-concentrations-of-sevoflurane-and-myocardial-injury-on-noncardiac-surgery/</guid>
+      <guid>victorliem.netlify.app/talk/association-between-minimal-alveolar-concentrations-of-sevoflurane-and-myocardial-injury-on-noncardiac-surgery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The association between postoperative hypotension during the first 24 hours after noncardiac surgery and myocardial injury</title>
-      <link>/talk/the-association-between-postoperative-hypotension-during-the-first-24-hours-after-noncardiac-surgery-and-myocardial-injury/</link>
+      <link>victorliem.netlify.app/talk/the-association-between-postoperative-hypotension-during-the-first-24-hours-after-noncardiac-surgery-and-myocardial-injury/</link>
       <pubDate>Sun, 20 Oct 2019 13:00:00 +0000</pubDate>
-      <guid>/talk/the-association-between-postoperative-hypotension-during-the-first-24-hours-after-noncardiac-surgery-and-myocardial-injury/</guid>
+      <guid>victorliem.netlify.app/talk/the-association-between-postoperative-hypotension-during-the-first-24-hours-after-noncardiac-surgery-and-myocardial-injury/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Big Data Analysis - Workshop</title>
-      <link>/talk/big-data-analysis-workshop/</link>
+      <link>victorliem.netlify.app/talk/big-data-analysis-workshop/</link>
       <pubDate>Fri, 20 Sep 2019 09:00:00 +0000</pubDate>
-      <guid>/talk/big-data-analysis-workshop/</guid>
+      <guid>victorliem.netlify.app/talk/big-data-analysis-workshop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The association between postoperative hypotension during the first 24 hours after noncardiac surgery and myocardial injury</title>
-      <link>/talk/the-association-between-postoperative-hypotension-during-the-first-24-hours-after-noncardiac-surgery-and-myocardial-injury/</link>
+      <link>victorliem.netlify.app/talk/the-association-between-postoperative-hypotension-during-the-first-24-hours-after-noncardiac-surgery-and-myocardial-injury/</link>
       <pubDate>Sat, 26 Jan 2019 09:00:00 +0000</pubDate>
-      <guid>/talk/the-association-between-postoperative-hypotension-during-the-first-24-hours-after-noncardiac-surgery-and-myocardial-injury/</guid>
+      <guid>victorliem.netlify.app/talk/the-association-between-postoperative-hypotension-during-the-first-24-hours-after-noncardiac-surgery-and-myocardial-injury/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Relevance of postoperative blood pressures?</title>
-      <link>/talk/relevance-of-postoperative-blood-pressures/</link>
+      <link>victorliem.netlify.app/talk/relevance-of-postoperative-blood-pressures/</link>
       <pubDate>Tue, 02 Oct 2018 09:00:00 +0000</pubDate>
-      <guid>/talk/relevance-of-postoperative-blood-pressures/</guid>
+      <guid>victorliem.netlify.app/talk/relevance-of-postoperative-blood-pressures/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The association between postoperative hypotension during the first 24 hours after noncardiac surgery and myocardial injury</title>
-      <link>/talk/the-association-between-postoperative-hypotension-during-the-first-24-hours-after-noncardiac-surgery-and-myocardial-injury/</link>
+      <link>victorliem.netlify.app/talk/the-association-between-postoperative-hypotension-during-the-first-24-hours-after-noncardiac-surgery-and-myocardial-injury/</link>
       <pubDate>Sat, 10 Feb 2018 09:00:00 +0000</pubDate>
-      <guid>/talk/the-association-between-postoperative-hypotension-during-the-first-24-hours-after-noncardiac-surgery-and-myocardial-injury/</guid>
+      <guid>victorliem.netlify.app/talk/the-association-between-postoperative-hypotension-during-the-first-24-hours-after-noncardiac-surgery-and-myocardial-injury/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The prognostic value of postoperative high-sensitive troponin T in patients with different stages of kidney disease undergoing noncardiac surgery</title>
-      <link>/talk/the-prognostic-value-of-postoperative-high-sensitive-troponin-t-in-patients-with-different-stages-of-kidney-disease-undergoing-noncardiac-surgery/</link>
+      <link>victorliem.netlify.app/talk/the-prognostic-value-of-postoperative-high-sensitive-troponin-t-in-patients-with-different-stages-of-kidney-disease-undergoing-noncardiac-surgery/</link>
       <pubDate>Fri, 30 Sep 2016 16:05:00 +0000</pubDate>
-      <guid>/talk/the-prognostic-value-of-postoperative-high-sensitive-troponin-t-in-patients-with-different-stages-of-kidney-disease-undergoing-noncardiac-surgery/</guid>
+      <guid>victorliem.netlify.app/talk/the-prognostic-value-of-postoperative-high-sensitive-troponin-t-in-patients-with-different-stages-of-kidney-disease-undergoing-noncardiac-surgery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The prognostic value of postoperative high-sensitive troponin T in patients with different stages of kidney disease undergoing noncardiac surgery</title>
-      <link>/talk/the-prognostic-value-of-postoperative-high-sensitive-troponin-t-in-patients-with-different-stages-of-kidney-disease-undergoing-noncardiac-surgery/</link>
+      <link>victorliem.netlify.app/talk/the-prognostic-value-of-postoperative-high-sensitive-troponin-t-in-patients-with-different-stages-of-kidney-disease-undergoing-noncardiac-surgery/</link>
       <pubDate>Sat, 31 Jan 2015 11:30:00 +0000</pubDate>
-      <guid>/talk/the-prognostic-value-of-postoperative-high-sensitive-troponin-t-in-patients-with-different-stages-of-kidney-disease-undergoing-noncardiac-surgery/</guid>
+      <guid>victorliem.netlify.app/talk/the-prognostic-value-of-postoperative-high-sensitive-troponin-t-in-patients-with-different-stages-of-kidney-disease-undergoing-noncardiac-surgery/</guid>
       <description></description>
     </item>
     

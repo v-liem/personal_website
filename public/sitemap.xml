@@ -2,227 +2,227 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/courses/example/python/</loc>
+    <loc>victorliem.netlify.app/courses/example/python/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/courses/example/visualization/</loc>
+    <loc>victorliem.netlify.app/courses/example/visualization/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/courses/example/stats/</loc>
+    <loc>victorliem.netlify.app/courses/example/stats/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/bb/</loc>
+    <loc>victorliem.netlify.app/project/bb/</loc>
     <lastmod>2021-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/sioht/</loc>
+    <loc>victorliem.netlify.app/project/sioht/</loc>
     <lastmod>2021-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/fnyl/</loc>
+    <loc>victorliem.netlify.app/project/fnyl/</loc>
     <lastmod>2021-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/main/</loc>
+    <loc>victorliem.netlify.app/tag/main/</loc>
     <lastmod>2021-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/mac/</loc>
+    <loc>victorliem.netlify.app/project/mac/</loc>
     <lastmod>2021-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/others/</loc>
+    <loc>victorliem.netlify.app/tag/others/</loc>
     <lastmod>2021-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/pohr/</loc>
+    <loc>victorliem.netlify.app/project/pohr/</loc>
     <lastmod>2021-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/</loc>
+    <loc>victorliem.netlify.app/project/</loc>
     <lastmod>2021-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/powh/</loc>
+    <loc>victorliem.netlify.app/project/powh/</loc>
     <lastmod>2021-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>victorliem.netlify.app/tags/</loc>
     <lastmod>2021-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>victorliem.netlify.app/</loc>
     <lastmod>2021-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/courses/</loc>
+    <loc>victorliem.netlify.app/courses/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/courses/example/</loc>
+    <loc>victorliem.netlify.app/courses/example/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/academic/</loc>
+    <loc>victorliem.netlify.app/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/admin/</loc>
+    <loc>victorliem.netlify.app/author/admin/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/</loc>
+    <loc>victorliem.netlify.app/authors/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>victorliem.netlify.app/categories/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/category/demo/</loc>
+    <loc>victorliem.netlify.app/category/demo/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/</loc>
+    <loc>victorliem.netlify.app/post/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/getting-started/</loc>
+    <loc>victorliem.netlify.app/post/getting-started/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <loc>victorliem.netlify.app/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/%E5%BC%80%E6%BA%90/</loc>
+    <loc>victorliem.netlify.app/tag/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/category/%E6%95%99%E7%A8%8B/</loc>
+    <loc>victorliem.netlify.app/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/2020-12-01-r-rmarkdown/</loc>
+    <loc>victorliem.netlify.app/post/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/tag/plot/</loc>
+    <loc>victorliem.netlify.app/tag/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/category/r/</loc>
+    <loc>victorliem.netlify.app/category/r/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/tag/r-markdown/</loc>
+    <loc>victorliem.netlify.app/tag/r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/tag/regression/</loc>
+    <loc>victorliem.netlify.app/tag/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/publication-type/2/</loc>
+    <loc>victorliem.netlify.app/publication-type/2/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/f.-grune/</loc>
+    <loc>victorliem.netlify.app/author/f.-grune/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/f.-van-lier/</loc>
+    <loc>victorliem.netlify.app/author/f.-van-lier/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/hypotension/</loc>
+    <loc>victorliem.netlify.app/tag/hypotension/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/j.w.-potters/</loc>
+    <loc>victorliem.netlify.app/author/j.w.-potters/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/k.h.j.m.-mol/</loc>
+    <loc>victorliem.netlify.app/author/k.h.j.m.-mol/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/myocardial-injury/</loc>
+    <loc>victorliem.netlify.app/tag/myocardial-injury/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/poh/</loc>
+    <loc>victorliem.netlify.app/publication/poh/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication_types/</loc>
+    <loc>victorliem.netlify.app/publication_types/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/</loc>
+    <loc>victorliem.netlify.app/publication/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/r.j.-stolker/</loc>
+    <loc>victorliem.netlify.app/author/r.j.-stolker/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/s.e.-hoek/</loc>
+    <loc>victorliem.netlify.app/author/s.e.-hoek/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/v.g.b.-liem/</loc>
+    <loc>victorliem.netlify.app/author/v.g.b.-liem/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/qol/</loc>
+    <loc>victorliem.netlify.app/publication/qol/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/quality-of-life/</loc>
+    <loc>victorliem.netlify.app/tag/quality-of-life/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/troponin/</loc>
+    <loc>victorliem.netlify.app/tag/troponin/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/talk/association-between-minimal-alveolar-concentrations-of-sevoflurane-and-myocardial-injury-on-noncardiac-surgery/</loc>
+    <loc>victorliem.netlify.app/talk/association-between-minimal-alveolar-concentrations-of-sevoflurane-and-myocardial-injury-on-noncardiac-surgery/</loc>
     <lastmod>2019-10-21T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>/event/</loc>
+    <loc>victorliem.netlify.app/event/</loc>
     <lastmod>2019-10-21T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>/talk/the-association-between-postoperative-hypotension-during-the-first-24-hours-after-noncardiac-surgery-and-myocardial-injury/</loc>
+    <loc>victorliem.netlify.app/talk/the-association-between-postoperative-hypotension-during-the-first-24-hours-after-noncardiac-surgery-and-myocardial-injury/</loc>
     <lastmod>2019-10-20T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>/talk/big-data-analysis-workshop/</loc>
+    <loc>victorliem.netlify.app/talk/big-data-analysis-workshop/</loc>
     <lastmod>2019-09-20T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/writing-technical-content/</loc>
+    <loc>victorliem.netlify.app/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/mace/</loc>
+    <loc>victorliem.netlify.app/tag/mace/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/mace/</loc>
+    <loc>victorliem.netlify.app/publication/mace/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/jupyter/</loc>
+    <loc>victorliem.netlify.app/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/slides/</loc>
+    <loc>victorliem.netlify.app/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/slides/example/</loc>
+    <loc>victorliem.netlify.app/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/talk/the-association-between-postoperative-hypotension-during-the-first-24-hours-after-noncardiac-surgery-and-myocardial-injury/</loc>
+    <loc>victorliem.netlify.app/talk/the-association-between-postoperative-hypotension-during-the-first-24-hours-after-noncardiac-surgery-and-myocardial-injury/</loc>
     <lastmod>2019-01-26T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/anesthesia/</loc>
+    <loc>victorliem.netlify.app/tag/anesthesia/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/big-data/</loc>
+    <loc>victorliem.netlify.app/tag/big-data/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/j.c.-de-graaff/</loc>
+    <loc>victorliem.netlify.app/author/j.c.-de-graaff/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/big-data/</loc>
+    <loc>victorliem.netlify.app/publication/big-data/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/talk/relevance-of-postoperative-blood-pressures/</loc>
+    <loc>victorliem.netlify.app/talk/relevance-of-postoperative-blood-pressures/</loc>
     <lastmod>2018-10-02T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>/talk/the-association-between-postoperative-hypotension-during-the-first-24-hours-after-noncardiac-surgery-and-myocardial-injury/</loc>
+    <loc>victorliem.netlify.app/talk/the-association-between-postoperative-hypotension-during-the-first-24-hours-after-noncardiac-surgery-and-myocardial-injury/</loc>
     <lastmod>2018-02-10T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/ckd/</loc>
+    <loc>victorliem.netlify.app/tag/ckd/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/f.h.i.m.-wesdorp/</loc>
+    <loc>victorliem.netlify.app/author/f.h.i.m.-wesdorp/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/ckd/</loc>
+    <loc>victorliem.netlify.app/publication/ckd/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/troponin-t/</loc>
+    <loc>victorliem.netlify.app/tag/troponin-t/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/map/</loc>
+    <loc>victorliem.netlify.app/publication/map/</loc>
     <lastmod>2017-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/h.-boersma/</loc>
+    <loc>victorliem.netlify.app/author/h.-boersma/</loc>
     <lastmod>2017-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/map/</loc>
+    <loc>victorliem.netlify.app/tag/map/</loc>
     <lastmod>2017-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/talk/the-prognostic-value-of-postoperative-high-sensitive-troponin-t-in-patients-with-different-stages-of-kidney-disease-undergoing-noncardiac-surgery/</loc>
+    <loc>victorliem.netlify.app/talk/the-prognostic-value-of-postoperative-high-sensitive-troponin-t-in-patients-with-different-stages-of-kidney-disease-undergoing-noncardiac-surgery/</loc>
     <lastmod>2016-09-30T16:05:00+00:00</lastmod>
   </url><url>
-    <loc>/talk/the-prognostic-value-of-postoperative-high-sensitive-troponin-t-in-patients-with-different-stages-of-kidney-disease-undergoing-noncardiac-surgery/</loc>
+    <loc>victorliem.netlify.app/talk/the-prognostic-value-of-postoperative-high-sensitive-troponin-t-in-patients-with-different-stages-of-kidney-disease-undergoing-noncardiac-surgery/</loc>
     <lastmod>2015-01-31T11:30:00+00:00</lastmod>
   </url><url>
-    <loc>/admin/</loc>
+    <loc>victorliem.netlify.app/admin/</loc>
   </url><url>
-    <loc>/author/victor-g.b.-liem/</loc>
+    <loc>victorliem.netlify.app/author/victor-g.b.-liem/</loc>
   </url>
 </urlset>

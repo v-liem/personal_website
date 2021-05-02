@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Myocardial Injury | vgbliem</title>
-    <link>/tag/myocardial-injury/</link>
-      <atom:link href="/tag/myocardial-injury/index.xml" rel="self" type="application/rss+xml" />
+    <link>victorliem.netlify.app/tag/myocardial-injury/</link>
+      <atom:link href="victorliem.netlify.app/tag/myocardial-injury/index.xml" rel="self" type="application/rss+xml" />
     <description>Myocardial Injury</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Victor Liem 2021 · Powered by [blogdown](https://bookdown.org/yihui/blogdown/) and the [Acacemic theme](https://wowchemy.com/) for [Hugo](https://gohugo.io/)</copyright><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>/victorliem.netlify.app/media/icon_hueab541dda5c83ac57704dcca904f04bb_56108_512x512_fill_lanczos_center_2.png</url>
       <title>Myocardial Injury</title>
-      <link>/tag/myocardial-injury/</link>
+      <link>victorliem.netlify.app/tag/myocardial-injury/</link>
     </image>
     
     <item>
       <title>Postoperative Hypotension after Noncardiac Surgery and the Association with Myocardial Injury</title>
-      <link>/publication/poh/</link>
+      <link>victorliem.netlify.app/publication/poh/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/poh/</guid>
+      <guid>victorliem.netlify.app/publication/poh/</guid>
       <description></description>
     </item>
     
