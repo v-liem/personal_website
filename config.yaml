@@ -7,7 +7,7 @@
 # Title of my site
 title: vgbliem
 # Website URL
-baseurl: ""
+baseurl: "victorliem.netlify.app"
 # Copyright text in footer
 copyright: '© Victor Liem {year} · Powered by [blogdown](https://bookdown.org/yihui/blogdown/) and the [Acacemic theme](https://wowchemy.com/) for [Hugo](https://gohugo.io/)' 
 

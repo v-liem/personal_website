@@ -11,7 +11,7 @@ featured: false
 image:
   focal_point: Right
 links:
-location: Erasmus University Medical Center, Bioscoopzaal Sophia
+location: Erasmus MC, Bioscoopzaal Sophia
 projects:
 - Postoperative Hypotension after Noncardiac Surgery and the Association with Myocardial Injury
 publishDate: "2021-05-02T00:00:00Z"
