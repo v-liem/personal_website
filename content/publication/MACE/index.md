@@ -59,7 +59,7 @@ url_code: ""
 
 url_dataset: ""
 
-url_pdf: ""
+url_pdf: "https://www.internationaljournalofcardiology.com/action/showPdf?pii=S0167-5273%2818%2931922-3"
 
 url_poster: ""
 url_project: ""

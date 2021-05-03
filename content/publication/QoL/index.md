@@ -73,7 +73,7 @@ url_code: ""
 
 url_dataset: ""
 
-url_pdf: ""
+url_pdf: "https://journals.lww.com/ejanaesthesiology/Abstract/2020/08000/Immediate_postoperative_high_sensitivity_troponin.7.aspx"
 
 url_poster: ""
 url_project: ""

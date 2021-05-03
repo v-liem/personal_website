@@ -62,7 +62,7 @@ url_code: ""
 
 url_dataset: ""
 
-url_pdf: ""
+url_pdf: "https://bjanaesthesia.org/action/showPdf?pii=S0007-0912%2817%2953941-0"
 
 url_poster: ""
 url_project: ""

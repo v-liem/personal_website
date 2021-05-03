@@ -5,11 +5,11 @@
   "theme_color": "#1565c0",
   "background_color": "#1565c0",
   "icons": [{
-    "src": "/victorliem.netlify.app/media/icon_hueab541dda5c83ac57704dcca904f04bb_56108_192x192_fill_lanczos_center_2.png",
+    "src": "/victorliem.netlify.app/media/icon_hu6a95d3462d20546a9620866b818f2eb3_66055_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
     "type": "image/png"
     }, {
-    "src": "/victorliem.netlify.app/media/icon_hueab541dda5c83ac57704dcca904f04bb_56108_512x512_fill_lanczos_center_2.png",
+    "src": "/victorliem.netlify.app/media/icon_hu6a95d3462d20546a9620866b818f2eb3_66055_512x512_fill_lanczos_center_2.png",
     "sizes": "512x512",
     "type": "image/png"
      }],

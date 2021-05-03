@@ -56,7 +56,7 @@ url_code: ""
 
 url_dataset: ""
 
-url_pdf: ""
+url_pdf: "https://journals.lww.com/co-anesthesiology/Abstract/2018/12000/What_we_can_learn_from_Big_Data_about_factors.13.aspx"
 
 url_poster: ""
 url_project: ""

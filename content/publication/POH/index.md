@@ -60,8 +60,8 @@ url_code: ""
 
 url_dataset: ""
 
-url_pdf: ""
-url_poster: ""
+url_pdf: "https://pubs.asahq.org/anesthesiology/article-pdf/133/3/510/498250/20200900.0-00012.pdf"
+url_poster: "posters/asa2019.24009e4.pdf"
 url_project: ""
 url_slides: ""
 url_source: ""

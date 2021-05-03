@@ -7,7 +7,7 @@
     <description>vgbliem</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Victor Liem 2021 · Powered by [blogdown](https://bookdown.org/yihui/blogdown/) and the [Acacemic theme](https://wowchemy.com/) for [Hugo](https://gohugo.io/)</copyright><lastBuildDate>Fri, 30 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/victorliem.netlify.app/media/icon_hueab541dda5c83ac57704dcca904f04bb_56108_512x512_fill_lanczos_center_2.png</url>
+      <url>/victorliem.netlify.app/media/icon_hu6a95d3462d20546a9620866b818f2eb3_66055_512x512_fill_lanczos_center_2.png</url>
       <title>vgbliem</title>
       <link>victorliem.netlify.app/</link>
     </image>
@@ -353,7 +353,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-378419526&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-369857142&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -363,7 +363,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-378419526&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-369857142&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
