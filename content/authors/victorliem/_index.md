@@ -53,7 +53,7 @@ social:
   link: mailto:v.liem@erasmusmc.nl
 - icon: linkedin-in
   icon_pack: fab
-  link: www.linkedin.com/in/victor-gb-liem
+  link: https://linkedin.com/in/victor-gb-liem
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=E2D3w-0AAAAJ&hl=nl&oi=ao
