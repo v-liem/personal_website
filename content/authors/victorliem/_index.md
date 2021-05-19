@@ -21,7 +21,7 @@ education:
   courses:
   - course: Ph.D. in Perioperative Care
     institution: Erasmus University Medical Center
-    year: excpected in 2022
+    year: expected in 2022
   - course: M.Sc. in Medicine
     institution: Erasmus University Medical Center
     year: 2017
